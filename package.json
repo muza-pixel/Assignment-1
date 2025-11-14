@@ -1,11 +1,14 @@
 {
   "name": "my-project",
   "version": "1.0.0",
-  "description": "My first ever backend learning journey",
   "main": "App.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
